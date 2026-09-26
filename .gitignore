@@ -216,3 +216,18 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# --- OUR PROJECT - ADDED BY TEAM ---
+venv/
+env/
+.venv/
+.env
+node_modules/
+frontend/node_modules/
+.next/
+resumes/
+uploads/
+*.pdf
+*.docx
+*.csv
+*.log

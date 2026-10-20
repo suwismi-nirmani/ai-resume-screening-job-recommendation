@@ -1,5 +1,7 @@
 from fastapi import FastAPI, File, UploadFile
 
+from .nlp import extract_skills  #connect skill extraction from nlp.py
+
 from .extraction import MAX_FILE_SIZE, extract_resume_text
 
 app = FastAPI(title="CareerMatch AI")
@@ -27,8 +29,12 @@ def upload_resume(file: UploadFile = File(...)):
     finally:
         file.file.close()
 
+    skills = extract_skills(text)
+
     return {
         "filename": file.filename,
         "extracted_text": text,
         "character_count": len(text),
+        "skills": skills,
+        "skill_count": len(skills),
     }

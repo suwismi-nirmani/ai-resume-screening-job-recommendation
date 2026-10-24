@@ -1,0 +1,2 @@
+Synthetic Candidate 01
+Backend developer with two years of experience building REST APIs in Python using FastAPI and Django. Designed PostgreSQL databases and wrote complex SQL queries. Wrote unit tests with pytest and containerised services with Docker. Used Git and GitHub for version control and code review.

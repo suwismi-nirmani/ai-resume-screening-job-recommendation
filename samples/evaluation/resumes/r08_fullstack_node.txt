@@ -1,0 +1,2 @@
+Synthetic Candidate 08
+Full stack developer working with Node.js, Express.js and MongoDB on the backend and React on the frontend. Built REST APIs and deployed services with Docker. JavaScript and TypeScript.

@@ -1,0 +1,2 @@
+Synthetic Candidate 10
+DevOps engineer maintaining CI/CD pipelines, Docker containers and Kubernetes clusters on AWS. Scripted automation on Linux with Python. Monitored production services.

@@ -1,0 +1,2 @@
+Synthetic Candidate 09
+Java developer with experience in Spring Boot microservices, REST APIs and MySQL databases. Worked in an Agile Scrum team and used Git. Some Kotlin for Android apps.

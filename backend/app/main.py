@@ -2,12 +2,19 @@ from fastapi import FastAPI, File, UploadFile
 from fastapi import HTTPException
 from contextlib import asynccontextmanager
 from .nlp import extract_skills  #connect skill extraction from nlp.py
-from .db import init_db, save_resume, get_resume
+from .db import (
+    init_db,
+    save_resume,
+    get_resume,
+    seed_sample_jobs,
+    get_active_jobs,
+)
 from .extraction import MAX_FILE_SIZE, extract_resume_text
 
 @asynccontextmanager
 async def lifespan(app):
     init_db()
+    seed_sample_jobs()
     yield
 
 
@@ -69,3 +76,7 @@ def read_resume(resume_id: int):
         )
 
     return resume
+
+@app.get("/api/jobs")
+def read_jobs():
+    return get_active_jobs()

@@ -1,0 +1,2 @@
+Synthetic Candidate 05
+Research student focused on natural language processing. Built text classification and named entity extraction models in Python with PyTorch. Evaluated models using precision and recall. Experience with machine learning and deep learning.

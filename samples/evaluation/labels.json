@@ -1,0 +1,59 @@
+{
+  "r01_python_backend.txt": [
+    "Python Backend Developer",
+    "Software Engineer",
+    "Software Development Intern"
+  ],
+  "r02_frontend.txt": [
+    "Frontend Developer",
+    "Web Development Intern",
+    "Full Stack Developer"
+  ],
+  "r03_data_analyst.txt": [
+    "Data Analyst",
+    "Junior Data Analyst",
+    "Data Analyst Intern",
+    "Business Intelligence Analyst"
+  ],
+  "r04_ml.txt": [
+    "Machine Learning Engineer",
+    "Machine Learning Intern",
+    "Computer Vision Engineer",
+    "Data Scientist"
+  ],
+  "r05_nlp.txt": [
+    "NLP Engineer",
+    "AI Research Assistant",
+    "Machine Learning Engineer"
+  ],
+  "r06_qa.txt": [
+    "QA Engineer",
+    "QA Intern"
+  ],
+  "r07_it_support.txt": [
+    "IT Support Specialist",
+    "IT Support Intern"
+  ],
+  "r08_fullstack_node.txt": [
+    "Full Stack Developer",
+    "Backend Developer (Node.js)",
+    "Frontend Developer"
+  ],
+  "r09_java.txt": [
+    "Java Software Engineer",
+    "Mobile App Developer"
+  ],
+  "r10_devops.txt": [
+    "DevOps Engineer",
+    "Data Engineer"
+  ],
+  "r11_bi.txt": [
+    "Business Intelligence Analyst",
+    "Marketing Data Analyst",
+    "Data Analyst"
+  ],
+  "r12_designer.txt": [
+    "UI/UX Designer",
+    "Web Development Intern"
+  ]
+}

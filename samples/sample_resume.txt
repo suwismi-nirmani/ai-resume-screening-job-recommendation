@@ -1,0 +1,4 @@
+Synthetic Candidate
+Python developer with FastAPI and PostgreSQL experience.
+Built web interfaces using React, JavaScript, HTML and CSS.
+Used Git and GitHub for version control.

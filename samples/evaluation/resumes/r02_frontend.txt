@@ -1,0 +1,2 @@
+Synthetic Candidate 02
+Frontend developer skilled in React, JavaScript, TypeScript, HTML and CSS. Built responsive web interfaces from Figma designs, connected pages to REST APIs and used Git for version control. Familiar with Tailwind CSS.

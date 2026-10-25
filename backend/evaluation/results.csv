@@ -1,0 +1,13 @@
+resume,top_3,precision@1,recall@1,f1@1,top1_hit,precision@3,recall@3,f1@3,top3_hit,precision@5,recall@5,f1@5,top5_hit
+r01_python_backend.txt,Python Backend Developer | Java Software Engineer | Data Engineer,1.0,0.3333333333333333,0.5,1.0,0.3333333333333333,0.3333333333333333,0.3333333333333333,1.0,0.6,1.0,0.7499999999999999,1.0
+r02_frontend.txt,Frontend Developer | Web Development Intern | Angular Developer,1.0,0.3333333333333333,0.5,1.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,1.0,0.4,0.6666666666666666,0.5,1.0
+r03_data_analyst.txt,Data Analyst | Data Analyst Intern | Junior Data Analyst,1.0,0.25,0.4,1.0,1.0,0.75,0.8571428571428571,1.0,0.8,1.0,0.888888888888889,1.0
+r04_ml.txt,Machine Learning Engineer | Computer Vision Engineer | Machine Learning Intern,1.0,0.25,0.4,1.0,1.0,0.75,0.8571428571428571,1.0,0.6,0.75,0.6666666666666665,1.0
+r05_nlp.txt,NLP Engineer | Computer Vision Engineer | AI Research Assistant,1.0,0.3333333333333333,0.5,1.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,1.0,0.6,1.0,0.7499999999999999,1.0
+r06_qa.txt,QA Engineer | QA Intern | Data Analyst Intern,1.0,0.5,0.6666666666666666,1.0,0.6666666666666666,1.0,0.8,1.0,0.4,1.0,0.5714285714285715,1.0
+r07_it_support.txt,IT Support Specialist | IT Support Intern | QA Intern,1.0,0.5,0.6666666666666666,1.0,0.6666666666666666,1.0,0.8,1.0,0.4,1.0,0.5714285714285715,1.0
+r08_fullstack_node.txt,Full Stack Developer | Backend Developer (Node.js) | Frontend Developer,1.0,0.3333333333333333,0.5,1.0,1.0,1.0,1.0,1.0,0.6,1.0,0.7499999999999999,1.0
+r09_java.txt,Java Software Engineer | Mobile App Developer | Python Backend Developer,1.0,0.5,0.6666666666666666,1.0,0.6666666666666666,1.0,0.8,1.0,0.4,1.0,0.5714285714285715,1.0
+r10_devops.txt,DevOps Engineer | Data Engineer | Computer Vision Engineer,1.0,0.5,0.6666666666666666,1.0,0.6666666666666666,1.0,0.8,1.0,0.4,1.0,0.5714285714285715,1.0
+r11_bi.txt,Business Intelligence Analyst | Data Analyst | Data Analyst Intern,1.0,0.3333333333333333,0.5,1.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,1.0,0.6,1.0,0.7499999999999999,1.0
+r12_designer.txt,UI/UX Designer | Web Development Intern | Frontend Developer,1.0,0.5,0.6666666666666666,1.0,0.6666666666666666,1.0,0.8,1.0,0.4,1.0,0.5714285714285715,1.0

@@ -1,0 +1,2 @@
+Synthetic Candidate 06
+Quality assurance engineer. Wrote and executed test cases, performed manual testing and regression testing, and automated UI tests with Selenium. Logged defects and verified fixes. Basic SQL for test data. Good communication and problem solving.

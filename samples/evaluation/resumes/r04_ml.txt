@@ -1,0 +1,2 @@
+Synthetic Candidate 04
+Machine learning graduate. Trained classification models with Python, scikit-learn and TensorFlow. Prepared features with pandas and NumPy. Completed a deep learning project on image classification and deployed a model as a REST API.

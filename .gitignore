@@ -38,3 +38,10 @@ Thumbs.db
 
 # Logs
 *.log
+
+# Generated evaluation output
+backend/evaluation/results.csv
+
+# Frontend local settings
+frontend/.env
+frontend/.env.local
